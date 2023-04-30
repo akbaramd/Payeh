@@ -1,4 +1,19 @@
 /Payeh.Common/bin/
 /Payeh.Common/obj/
 
+/Payeh.Api/obj/
+/Payeh.Api/bin/
+
+/Payeh.Messaging/obj/
+/Payeh.Messaging/bin/
+
+/Payeh.Messaging.RabbitMQ/obj/
+/Payeh.Messaging.RabbitMQ/bin/
+
+/Payeh.Scheduler/obj/
+/Payeh.Scheduler/bin/
+
+/Payeh.Test.Api/obj/
+/Payeh.Test.Api/bin/
+
 .idea
